@@ -1,0 +1,1 @@
+This program is about detecting a news as real/fake using ML.
